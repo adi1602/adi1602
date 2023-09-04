@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Mahajan</h1>
 <h3 align="center">Machine Learning Engineer and Cloud Associate</h3>
 
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw01euhyLpxs0xkqswS3rkDZ&ust=1693934313231000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDsp5q7kYEDFQAAAAAdAAAAABAF">
+<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw01euhyLpxs0xkqswS3rkDZ&ust=1693934313231000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCLDsp5q7kYEDFQAAAAAdAAAAABAF](https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47i4thsbb0usvm43yj7jwf1ugj4onlmscoxupltww7&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 - 👯 I’m looking to collaborate on [Machine Learning and Artificial Intelligence](https://www.adityamahajan.com/projects)
 
