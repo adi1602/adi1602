@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Mahajan</h1>
+<h1 align="center">Hi 👋 I'm Aditya Mahajan</h1>
 <h3 align="center">Machine Learning Engineer and Cloud Associate</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dgk8l08pm5yl68fflqx8aj906b3xnwaq4jjzzxmy&ep=v1_gifs_search&rid=giphy.gif&ct=g">
